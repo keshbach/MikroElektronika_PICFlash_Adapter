@@ -1,0 +1,31 @@
+MikroElektronika
+Programming Experimental Board for PICflash (15547-1214977)
+
+Digi-Key Part # 1471-1129-ND
+Mfg Part # MIKROE-149
+
+
+CN1 (PICFLASH CONNECTOR)
+
+|----|----|
+| 1  | 10 |
+|----|----|
+| 2  | 9  |
+|----|----|
+| 3  | 8  |
+|----|----|
+| 4  | 7  |
+|----|----|
+| 5  | 6  |
+|----|----|
+
+1  - LED VCC
+2  - ICSPCLK (Pin 5 of PICKit)
+3  - ICSPDAT (Pin 4 of PICKit)
+4  - ~MCLR/VPP (Pin 1 of PICKit)
+5  - Ground (Pin 3 of PICKit)
+6  - Ground (Pin 3 of PICKit)
+7  - Not Connected
+8  - Not Connected
+9  - Not Connected
+10 - VCC (Pin 2 of PICKit)
